@@ -121,7 +121,7 @@ Instead, use the word 'text'.
 ## T<a name="T"></a>
 
 **target area**  
-Lower case unless at beginning of sentence. Do not use 'Target Area' or 'TA' on public facing services if at all possible.
+This is a generic term used for the geospatial areas. These could be flood warning areas, operational areas or even Areas of Internet used by professional users. Lower case unless at beginning of sentence. Do not use 'Target Area' or 'TA' on public facing services if at all possible.
 
 **Targeted Flood Warning Service**  
 The Targeted Flood Warning Service is a web-based flood warning service that provides organisations with a more targeted and efficient service so that they can easily monitor assets at risk from flooding. The Targeted Flood Warning Service is an Environment Agency operated application, covering England and Wales, which provides email notifications and displays flood warnings relating to "assets" stored within the system. Do not refer to this service as 'TFWS' or 'Targeted flood warning service' or 'targeted flood warning service' in public services and products.
