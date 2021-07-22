@@ -1,4 +1,4 @@
-# Glossary
+# Glossary of Terms
 
 Glossary of flood related terms to be used across the services and products. For more information on general style guidance, refer to the [GDS Style Guide.](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
