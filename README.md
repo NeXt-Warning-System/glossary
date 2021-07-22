@@ -16,7 +16,7 @@ Create a branch, make you edits and then submit a pull request once you are done
 Instead use 'location' unless referring to a 'flood warning area' or 'flood alert area'
 
 **Area of Interest**  
-A known location, or set of locations, that a professional user is interested in. Areas of Interests (AOI) are associated with professional users only.
+Avoid using this, and instead use Location of Interest (LOI).
 
 ## B<a name="B"></a>
 
@@ -32,7 +32,10 @@ An area of land where precipitation collects and drains off into a common outlet
 The level below which depths are indicated and above which heights of the tides are expressed. We should try and avoid using this term in our public services as it may not be understood by all users.
 
 **contact**  
-A single user telephone number, email address or XML URL that a user register to get flood warning information via. 
+A users telephone number, email address or XML URL that a user register to get flood warning information via. 
+
+**customer**  
+Avoid using the word "customer" - and instead use user.
 
 ## D<a name="D"></a>
 
@@ -40,6 +43,9 @@ A single user telephone number, email address or XML URL that a user register to
 
 **Environment Agency**  
 Should not be refereed to as 'EA' or 'environment agency' in any public service or product.
+
+**Extendend Direct Warnings**  
+Our "opt-out" flood warning service that uses collected from the major telephony providers. Numbers that are registered in an area that’s at risk of flooding in the future and that may have flooded in the past. Often refered to as EDW. 
 
 ## F<a name="F"></a>
 
@@ -78,6 +84,9 @@ Avoid differentiating between 'home' and 'business' properties - just use 'prope
 
 **location**  
 Use instead of 'area' unless referring to a 'flood warning area' or 'flood alert area'.
+
+**Location of Interest**  
+A known location, or set of locations, that a professional user is interested in. Locations of Interests (LOI) are associated with professional users only.
 
 ## M<a name="M"></a>
 
@@ -133,6 +142,9 @@ Use this instead of 'SMS'.
 Use the word 'level' instead for example 'The Flood alert level has been reached'.
 
 ## U<a name="U"></a>
+
+**user**  
+A person or organisation that uses our flood warning service.
 
 ## V<a name="V"></a>
 
