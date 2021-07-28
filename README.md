@@ -104,9 +104,6 @@ An individual flood warning or alert message to an individual contact.
 
 ## N<a name="N"></a>
 
-**Natural Resources Wales**  
-Not 'NRW'
-
 ## O<a name="O"></a>
 
 ## P<a name="P"></a>
@@ -132,7 +129,7 @@ Instead, use the word 'text'.
 
 ## T<a name="T"></a>
 
-**target area**  
+**Target area or target area**  
 This is a generic term used for the geospatial areas. These could be flood warning areas, operational areas or even Areas of Internet used by professional users. Lower case unless at beginning of sentence. Do not use 'Target Area' or 'TA' on public facing services if at all possible.
 
 **Targeted Flood Warning Service**  
