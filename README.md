@@ -35,7 +35,7 @@ The level below which depths are indicated and above which heights of the tides 
 A users telephone number, email address or XML URL that a user register to get flood warning information via. 
 
 **customer**  
-Avoid using the word "customer" - and instead use user.
+Avoid using the word "customer" - and instead use 'subscriber'.
 
 ## D<a name="D"></a>
 
@@ -126,6 +126,9 @@ Not 'Severe Flood Warning' or 'severe'.
 
 **SMS**  
 Instead, use the word 'text'.
+
+**Subscriber**
+An individual person or system that is subscribed to get flood warning information. Use "Subscriber" instead of customer.
 
 ## T<a name="T"></a>
 
