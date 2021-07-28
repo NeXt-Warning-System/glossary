@@ -44,8 +44,8 @@ Avoid using the word "customer" - and instead use user.
 **Environment Agency**  
 Should not be refereed to as 'EA' or 'environment agency' in any public service or product.
 
-**Extendend Direct Warnings**  
-Our "opt-out" flood warning service that uses collected from the major telephony providers. Numbers that are registered in an area that’s at risk of flooding in the future and that may have flooded in the past. Often refered to as EDW. 
+**Extended Direct Warnings**  
+Our "opt-out" flood warning service that uses collected from the major telephony providers. Numbers that are registered in an area that’s at risk of flooding in the future and that may have flooded in the past. 
 
 ## F<a name="F"></a>
 
