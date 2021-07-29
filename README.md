@@ -99,7 +99,7 @@ This is the actual elevation of the water level referenced to the mean sea level
 **Met Office**  
 Capitalised and two words.
 
-**Messages**
+**Messages**  
 An individual flood warning or alert message to an individual contact.
 
 ## N<a name="N"></a>
