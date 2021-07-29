@@ -45,7 +45,7 @@ Avoid using the word "customer" - and instead use 'subscriber'.
 Should not be refereed to as 'EA' or 'environment agency' in any public service or product.
 
 **Extended Direct Warnings**  
-Our "opt-out" flood warning service that uses collected from the major telephony providers. Numbers that are registered in an area that’s at risk of flooding in the future and that may have flooded in the past. 
+Our "opt-out" flood warning service that uses collected from the major telephony providers. Telephone numbers are registered in an area if its billing address is in a flood warning area and the address is not already on the service. 
 
 ## F<a name="F"></a>
 
