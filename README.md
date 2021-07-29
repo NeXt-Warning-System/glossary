@@ -32,7 +32,7 @@ An area of land where precipitation collects and drains off into a common outlet
 The level below which depths are indicated and above which heights of the tides are expressed. We should try and avoid using this term in our public services as it may not be understood by all users.
 
 **contact**  
-A users telephone number, email address or XML URL that a user register to get flood warning information via. 
+A users telephone number, email address or XML URL that is registered to get flood warning information. 
 
 **customer**  
 Avoid using the word "customer" - and instead use 'subscriber'.
