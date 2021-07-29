@@ -26,13 +26,13 @@ Avoid differentiating between 'home' and 'business' properties - just use 'prope
 ## C<a name="C"></a>
 
 **catchment**  
-An area of land where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water. We should try and avoid using this term in our public services as it may not be understood by all users.
+An area of land where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water. We should try and avoid using this term in our public services as it may not be understood by all subscribers.
 
 **chart datum**  
-The level below which depths are indicated and above which heights of the tides are expressed. We should try and avoid using this term in our public services as it may not be understood by all users.
+The level below which depths are indicated and above which heights of the tides are expressed. We should try and avoid using this term in our public services as it may not be understood by all subscribers.
 
 **contact**  
-A users telephone number, email address or XML URL that is registered to get flood warning information. 
+A subscribers telephone number, email address or XML URL that is registered to get flood warning information. 
 
 **customer**  
 Avoid using the word "customer" - and instead use 'subscriber'.
@@ -86,7 +86,7 @@ Avoid differentiating between 'home' and 'business' properties - just use 'prope
 Use instead of 'area' unless referring to a 'flood warning area' or 'flood alert area'.
 
 **Location of Interest**  
-A known location, or set of locations, that a professional user is interested in. Locations of Interests (LOI) are associated with professional users only.
+A known location, or set of locations, that a professional subscriber is interested in. Locations of Interests (LOI) are associated with professional subscribers only.
 
 ## M<a name="M"></a>
 
@@ -94,7 +94,7 @@ A known location, or set of locations, that a professional user is interested in
 Can be used in place of 'metres'.
 
 **mAOD**  
-This is the actual elevation of the water level referenced to the mean sea level at the UK Ordnance datum at Newlyn, Cornwall. We should try and avoid using this term in our public services as it may not be understood by all users. Do not include 'N' for Newlyn - simply 'mAOD'.
+This is the actual elevation of the water level referenced to the mean sea level at the UK Ordnance datum at Newlyn, Cornwall. We should try and avoid using this term in our public services as it may not be understood by all subscribers. Do not include 'N' for Newlyn - simply 'mAOD'.
 
 **Met Office**  
 Capitalised and two words.
@@ -127,13 +127,13 @@ Not 'Severe Flood Warning' or 'severe'.
 **SMS**  
 Instead, use the word 'text'.
 
-**Subscriber**
+**Subscriber**  
 An individual person or system that is subscribed to get flood warning information. Use "Subscriber" instead of customer.
 
 ## T<a name="T"></a>
 
 **Target area or target area**  
-This is a generic term used for the geospatial areas. These could be flood warning areas, operational areas or even Areas of Internet used by professional users. Lower case unless at beginning of sentence. Do not use 'Target Area' or 'TA' on public facing services if at all possible.
+This is a generic term used for the geospatial areas. These could be flood warning areas, operational areas or even Areas of Internet used by professional subscribers. Lower case unless at beginning of sentence. Do not use 'Target Area' or 'TA' on public facing services if at all possible.
 
 **Targeted Flood Warning Service**  
 The Targeted Flood Warning Service is a web-based flood warning service that provides organisations with a more targeted and efficient service so that they can easily monitor assets at risk from flooding. The Targeted Flood Warning Service is an Environment Agency operated application, covering England and Wales, which provides email notifications and displays flood warnings relating to "assets" stored within the system. Do not refer to this service as 'TFWS' or 'Targeted flood warning service' or 'targeted flood warning service' in public services and products.
@@ -145,9 +145,6 @@ Use this instead of 'SMS'.
 Use the word 'level' instead for example 'The Flood alert level has been reached'.
 
 ## U<a name="U"></a>
-
-**user**  
-A person or organisation that uses our flood warning service.
 
 ## V<a name="V"></a>
 
