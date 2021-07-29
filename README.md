@@ -114,7 +114,7 @@ Use property instead of 'home' and 'business'.
 ## Q<a name="Q"></a>
 
 **Quickdial**  
-Quickdial codes are used within the IVR as a way of navigating to a Target Area. All Flood Alerts and Flood Warning Areas need to have a unique 6-digit Quickdial code which are created and managed by Area Flood Resilience Teams. When referring to Quickdial numbers, it should be one word and always capitalised.
+Quickdial numbers are used within the IVR as a way of navigating to a Target Area. All flood alerts and flood warning areas need to have a unique 6-digit Quickdial number is they are to appear on the IVR. When referring to quickdial numbers, it should be one word and capitalised if at the start of a sentence.
 
 ## R<a name="R"></a>
 
