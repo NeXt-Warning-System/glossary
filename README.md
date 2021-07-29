@@ -58,7 +58,7 @@ Not 'Flood Warning' or 'warning'.
 **Flood alert** or **flood alert**  
 Not 'Flood Alert' or 'alert'.
 
-**Flood warnings no longer in force** or **flood warnings no longer in force**  
+**Flood warning no longer in force** or **flood warning no longer in force**  
 Not 'Flood Warning No Longer In Force' or 'warning no longer in force'.
 
 ## G<a name="G"></a>
